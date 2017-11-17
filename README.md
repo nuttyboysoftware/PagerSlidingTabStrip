@@ -1,3 +1,9 @@
+Forked Form https://github.com/astuetz/PagerSlidingTabStrip due to issue with Android Studio 3 / Latest gradle versions not correctly reading attrs parameters.
+
+Cleaned gradle script slightly and created an pre-compilied aar which appears to work within my project as intended.
+
+aar file is available here - https://github.com/nuttyboysoftware/PagerSlidingTabStrip/tree/master/library/aar
+
 # Android PagerSlidingTabStrip
 
 Interactive paging indicator widget, compatible with the `ViewPager` from the 
